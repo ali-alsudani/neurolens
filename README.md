@@ -88,7 +88,7 @@ SHAP-based stable consensus methodology (Parvandeh et al. 2020, Bioinformatics):
 
 ```bash
 # Clone the repository
-git clone https://github.com/AliAlSudani0/psychiatric-multi-classifier-project.git
+git clone https://github.com/ali-alsudani/psychiatric-multi-classifier-project.git
 
 
 # Create virtual environment
