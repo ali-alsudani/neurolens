@@ -1,5 +1,29 @@
+# NeuroLens - Requirements
+# Python 3.11+
+
+# Core data science
+numpy==1.26.4
+pandas==2.3.3
+scipy
+
+# Machine learning
+scikit-learn==1.8.0
+xgboost==3.2.0
+imbalanced-learn==0.14.1
+shap==0.50.0
+
+# Visualization
 matplotlib==3.7.1
-numpy==1.24.3
-pandas==2.0.1
-scikit-learn==1.2.2
-statsmodels==0.14.0
+seaborn==0.11.2
+
+# Batch correction
+neuroCombat==0.2.12
+
+# Deep learning (GAN augmentation)
+torch==2.10.0
+
+# Jupyter
+jupyterlab==3.6.3
+
+# Utilities
+openpyxl
